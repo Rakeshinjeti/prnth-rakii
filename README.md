@@ -1,4 +1,4 @@
-# prnth-rakii
+# hackathon day 2
 <section id="about">
     <h2>About</h2>
     <p>This web application is just a starting point to explore HTML.</p>
